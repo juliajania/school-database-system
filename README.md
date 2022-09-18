@@ -17,3 +17,5 @@ Provides some functionalities like:
 - triggers
 - script for generating tables
 - insertions
+
+![alt text](https://github.com/juliajania/school-database-system/blob/main/SQL%20SCHOOL%20DATABASE%20SYSTEM%20.jpeg)
